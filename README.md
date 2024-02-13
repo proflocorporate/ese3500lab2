@@ -1,8 +1,8 @@
 # lab2_morse_skeleton
 
-    * Name: 
-    * Github Repository URL: 
-    * Description of hardware: (embedded hardware, laptop, etc) 
+    * Name: George Eliadis
+    * Github Repository URL: https://github.com/proflocorporate/ese3500lab2/
+    * Description of hardware: embedded hardware + laptop
 
 ## Github Repo Submission Resources
 
